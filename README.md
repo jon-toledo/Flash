@@ -1,5 +1,5 @@
 # Flash
-A neural network for recognizing climbing routes
+A neural network for recognizing climbing routes.
 
 ## Getting Started
 
