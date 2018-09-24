@@ -1,4 +1,4 @@
-[[https://github.com/jon-toledo/Flash/blob/master/FLASH.pdf]]
+![GitHub Logo](https://github.com/jon-toledo/Flash/edit/master/FLASH.pdf)
 
 # FLASH: A neural network for climbing route recognition.
 
