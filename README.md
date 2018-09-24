@@ -2,7 +2,7 @@
 
 # FLASH: A neural network for climbing route recognition.
 
-Flash is a convolutional neural network which takes a picture of rock climbing route as input, and as output gives the name and grade of the route.  The network is trained using about 200 images of each route taken from various positions during a small time period.  The challenge is then to classify new images taken from arbirary positions and under arbitrary conditions (weather, time of day, season).
+Flash is a convolutional neural network which takes a picture of a rock climbing route as input, and as output gives the name and grade of the route.  The network is trained using about 200 images of each route taken from various positions during a small time period.  The challenge is then to classify new images taken from arbirary positions and under arbitrary conditions (weather, time of day, season).
 
 Standard practice among climbers is to use a guidebook or 'topo' in order to identify specific outdoor climbing routes. This turns out to be much harder than one may naively expect. Determining 'which route is which' using the (often sparse) information of the guides is a hard problem! When exploring a new area, a great deal of valuable climbing time is lost on this task.
 
