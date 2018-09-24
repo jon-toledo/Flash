@@ -1,4 +1,4 @@
-# Flash: A neural network for recognizing climbing routes.
+# FLASH: A neural network for climbing route recognition.
 
 Standard practice among climbers is to use a guidebook or 'topo' in order to identify specific outdoor climbing routes. This turns out to be much harder than one may naively expect. Determining 'which route is which' using the (often sparse) information of the guides is a hard problem! When exploring a new area, a great deal of valuable climbing time is lost on this task.
 
