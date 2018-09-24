@@ -8,10 +8,10 @@ Standard practice among climbers is to use a guidebook or 'topo' in order to ide
 
 The eventual goal of this project is to develop a point-and-shoot mobile app which climbers can use to identify climing routes so they can spend less time staring at guide books and more time climbing!  
 
-<!
+
 ## Current status
 
-This is an ongoing project. As I have already mentioned, the eventual goal is to develop a mobile app which takes data from your phones camera as input, feeds this data into a pre-trained neural network, and produces route data as output (e.g. the name and difficulty grade of the route). 
+<! This is an ongoing project. As I have already mentioned, the eventual goal is to develop a mobile app which takes data from your phones camera as input, feeds this data into a pre-trained neural network, and produces route data as output (e.g. the name and difficulty grade of the route). 
 
 The current status of the project is much more humble and is only a proof of concept. I choose 4 different climbing routes in a popular sector of the local climbing area Mount Nemo. Lets call them route 1, ...., route 4. I took 200 pictures of each route from various angles -- this constituted the training set. My wife then took around 50 pictures of each route from various positions of her own choosing -- this constituted the test set. The goal was to train a neural network that would correctly classify the images in the test set.  
 
