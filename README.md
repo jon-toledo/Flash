@@ -6,7 +6,7 @@ Flash is a convolutional neural network which takes a picture of a rock climbing
 
 Standard practice among climbers is to use a guidebook or 'topo' in order to identify specific outdoor climbing routes. This turns out to be much harder than one may naively expect. Determining 'which route is which' using the (often sparse) information of the guides is a hard problem! When exploring a new area, a great deal of valuable climbing time is lost on this task.
 
-The eventual goal of this project is to develop a point-and-shoot mobile app which climbers can use to identify climing routes so they can spend less time staring at guide books and more time climbing!  
+The eventual goal of this project is to develop a point-and-shoot mobile app which climbers can use to identify climbing routes so they can spend less time staring at guide books and more time climbing!  
 
 <!-- 
 
