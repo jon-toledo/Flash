@@ -1,6 +1,6 @@
 ![GitHub Logo](https://github.com/jon-toledo/Flash/blob/master/images/FLASH.png)
 
-# FLASH: A neural network for climbing route recognition.
+# Flash: A neural network for climbing route recognition.
 
 Flash is a convolutional neural network which takes a picture of a rock climbing route as input, and as output gives the name and grade of the route.  The network is trained using about 200 images of each route taken from various positions during a small time period.  The challenge is then to classify new images taken from arbitrary positions and under arbitrary conditions (weather, time of day, season).
 
